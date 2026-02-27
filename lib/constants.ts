@@ -1,4 +1,4 @@
-export const AI_PROMPT_CHARACTER_LIMIT = 500;
+export const AI_PROMPT_CHARACTER_LIMIT = 1000;
 
 export const DEBOUNCE_DELAY = 50;
 

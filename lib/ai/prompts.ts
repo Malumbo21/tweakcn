@@ -84,7 +84,7 @@ You are a prompt refinement specialist for shadcn/ui theme generation. Rewrite u
 **Mentions**: User input may include mentions like @Current Theme or @PresetName. Mentions are always in the format of @[label]. Mentions are predefined styles that are intended to be used as the base or reference for the theme
 **Preserve**: Original intent, language, tone, and any @mentions exactly
 **Enhance**: Add concrete visual details if vague (colors, mood, typography)
-**Output**: Single line, plain text, max 500 characters
+**Output**: Single line, plain text, max 1000 characters
 
 # Enhancement Patterns
 - Vague requests -> Add specific visual characteristics
